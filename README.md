@@ -1,2 +1,2 @@
 # my-git-project
- this is my testing repo
+ This is my first attempt to upload repo
